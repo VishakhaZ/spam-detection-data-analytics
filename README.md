@@ -18,6 +18,6 @@ And visualize:
 
 Python       Data cleaning, spam scoring    
 Pandas       DataFrame manipulation         
-re (regex)   Pattern detection (e.g., URLs) 
+re (regex)   Pattern detection (e.g., URLs)
 Tableau      Dashboard & visuals            
 GitHub       Version control                
